@@ -4469,9 +4469,10 @@
 /fr/docs/Web/CSS/Motion_Path	/fr/docs/Web/CSS/CSS_motion_path
 /fr/docs/Web/CSS/Média	/fr/docs/Web/CSS/@media
 /fr/docs/Web/CSS/Média/Visuel	/fr/docs/Web/CSS/@media
-/fr/docs/Web/CSS/Média_Paginé	/fr/docs/Web/CSS/Paged_Media
-/fr/docs/Web/CSS/Média_paginés	/fr/docs/Web/CSS/Paged_Media
+/fr/docs/Web/CSS/Média_Paginé	/fr/docs/conflicting/Web/CSS/CSS_paged_media
+/fr/docs/Web/CSS/Média_paginés	/fr/docs/conflicting/Web/CSS/CSS_paged_media
 /fr/docs/Web/CSS/Outils	/fr/docs/Web/CSS
+/fr/docs/Web/CSS/Paged_Media	/fr/docs/conflicting/Web/CSS/CSS_paged_media
 /fr/docs/Web/CSS/Propriétés_raccourcies	/fr/docs/Web/CSS/Shorthand_properties
 /fr/docs/Web/CSS/Pseudo-éléments	/fr/docs/Web/CSS/Pseudo-elements
 /fr/docs/Web/CSS/Redimensionnement_arrière-plans_SVG	/fr/docs/Web/CSS/Scaling_of_SVG_backgrounds
@@ -4587,6 +4588,12 @@
 /fr/docs/Web/CSS/repeating-linear-gradient()	/fr/docs/Web/CSS/gradient/repeating-linear-gradient
 /fr/docs/Web/CSS/repeating-radial-gradient	/fr/docs/Web/CSS/gradient/repeating-radial-gradient
 /fr/docs/Web/CSS/repeating-radial-gradient()	/fr/docs/Web/CSS/gradient/repeating-radial-gradient
+/fr/docs/Web/CSS/scroll-snap-coordinate	/fr/docs/orphaned/Web/CSS/scroll-snap-coordinate
+/fr/docs/Web/CSS/scroll-snap-destination	/fr/docs/orphaned/Web/CSS/scroll-snap-destination
+/fr/docs/Web/CSS/scroll-snap-points-x	/fr/docs/orphaned/Web/CSS/scroll-snap-points-x
+/fr/docs/Web/CSS/scroll-snap-points-y	/fr/docs/orphaned/Web/CSS/scroll-snap-points-y
+/fr/docs/Web/CSS/scroll-snap-type-x	/fr/docs/orphaned/Web/CSS/scroll-snap-type-x
+/fr/docs/Web/CSS/scroll-snap-type-y	/fr/docs/orphaned/Web/CSS/scroll-snap-type-y
 /fr/docs/Web/CSS/scrollbar-colr	/fr/docs/Web/CSS/scrollbar-color
 /fr/docs/Web/CSS/scrollbar-track-color	/fr/docs/Web/CSS/scrollbar-color
 /fr/docs/Web/CSS/shape-box	/fr/docs/Web/CSS/shape-outside
